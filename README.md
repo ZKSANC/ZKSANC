@@ -26,7 +26,7 @@ Database
   
 📚 **Project**
   <br><br>
-<img width="10%" src="https://github.com/ZKSANC/HiBook/assets/114744493/96d1e05b-ce69-4e2d-b119-a67a0020b0c4"/><br>
+<img width="12%" src="https://github.com/ZKSANC/HiBook/assets/114744493/96d1e05b-ce69-4e2d-b119-a67a0020b0c4"/><br>
   **솜솜마을** | 봉제인형 MES 생산관리 사이트
   <br>
  <a href="https://github.com/ZKSANC/SomsomTown"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"></img></a>
