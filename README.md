@@ -36,7 +36,8 @@ Database
  
    <br>
 <img width="9%" src="https://github.com/ZKSANC/HiBook/assets/114744493/594c439c-5e0a-428e-835e-96c4ed2c804b"/><br>
-  HiBook | 중고책 거래 및 커뮤니티 사이트
+ <b>HiBook</b> 
+ | 중고책 거래 및 커뮤니티 사이트
   <br>
  <a href="http://itwillbs7.cafe24.com/teamProject/main.do"><img src="https://img.shields.io/badge/-Website-4285F4?style=flat&logo=googlechrome&logoColor=white"></img></a>
  <a href="https://github.com/ZKSANC/HiBook"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"></img></a>
