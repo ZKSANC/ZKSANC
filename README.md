@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Subin's%20Hub&fontColor=#fff&fontSize=60&fontAlign=50)
 
 <div align=center>
-  
+
+🙋
+ <br>
 성장을 추구하는 백엔드 개발자 우수빈입니다.
 <br><br>  
   
