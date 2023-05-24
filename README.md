@@ -28,14 +28,14 @@ Database
   
 📚 **Project**
   <br><br>
-<img width="14%" src="https://github.com/ZKSANC/wsb/assets/114744493/1a1ba5de-058e-4289-9e90-eac5e1a8df3a"/><br>
+<img width="14%" src="https://github.com/ZKSANC/HiBook/assets/114744493/e5932006-f99e-49fb-abf4-85c6f712e016"/><br>
   **솜솜마을** | 봉제인형 MES 생산관리 사이트
   <br>
  <a href="http://itwillbs20.cafe24.com/"><img src="https://img.shields.io/badge/-Website-4285F4?style=flat&logo=googlechrome&logoColor=white"></img></a>
  <a href="https://github.com/ZKSANC/SomsomTown"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"></img></a>
  
    <br>
-<img width="9%" src="https://github.com/ZKSANC/wsb/assets/114744493/04696577-8b7d-4ee2-a27d-618b9169b9dc"/><br>
+<img width="9%" src="https://github.com/ZKSANC/HiBook/assets/114744493/928b1ec6-62c9-40b1-aa27-94b056a56495"/><br>
  <b>HiBook</b> 
  | 중고책 거래 및 커뮤니티 사이트
   <br>
